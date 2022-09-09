@@ -144,9 +144,9 @@ comments_provider: gitalk
 # gitalk 配置参考：https://github.com/gitalk/gitalk#install
 gitalk:
     owner: YelloBridge
-    repo:YelloBridge.github.io
-    clientID:9bc3577228845a900b89
-    clientSecret:53981c15b9c26f4c23f2d74d311d59a5ae2bc947
+    repo: YelloBridge.github.io
+    clientID: 9bc3577228845a900b89
+    clientSecret: 53981c15b9c26f4c23f2d74d311d59a5ae2bc947
     admin: 
 # utterances 配置参考：https://utteranc.es/
 # utterances:
