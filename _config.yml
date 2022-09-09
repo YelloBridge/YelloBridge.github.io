@@ -2,18 +2,18 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://yuxiangtiant.github.io
+url: https://yellobridge.github.io
 date_format: "ordinal"
 title: 个人博客
-subtitle: "喻向天的个人博客"
-description: "喻向天的个人博客"
-keywords: 个人博客，喻向天
+subtitle: "黄桥的个人博客"
+description: "黄桥的个人博客"
+keywords: 个人博客，黄桥
 timezone: Asia/Wuhan
 encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2022
 # 源码仓库，请替换成自己的
-repository: YuxiangtianT/YuxiangtianT.github.io
+repository: YelloBridge/YelloBridge.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -40,7 +40,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: false
-        image_alt: 喻向天
+        image_alt: 黄桥
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
         view: cate
@@ -54,12 +54,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 喻向天
+author: 黄桥
 organization: 武汉理工大学
 organization_url: 
-github_username: YuxiangtianT
+github_username: YelloBridge
 location: Wuhan, China
-email: 1229856660@qq.com
+email: 1442494721@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -143,10 +143,10 @@ comments_provider: gitalk
 #         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # gitalk 配置参考：https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: YuxiangtianT
+    owner: YelloBridge
     repo: YuxiangtianT.github.io
-    clientID: 04daf7c9a13454b7ec04
-    clientSecret: c486f6164bb4f3afc84263ab3aef94f76d4d5ece
+    clientID: e0e23cb07fdd8d2f04f3
+    clientSecret: a3f9051765151f9e6af2f1a743e6bc900df2294c
     admin: 
 # utterances 配置参考：https://utteranc.es/
 # utterances:
