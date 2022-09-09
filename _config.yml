@@ -145,8 +145,8 @@ comments_provider: gitalk
 gitalk:
     owner: YelloBridge
     repo:YelloBridge.github.io
-    clientID: e0e23cb07fdd8d2f04f3
-    clientSecret: a3f9051765151f9e6af2f1a743e6bc900df2294c
+    clientID:9bc3577228845a900b89
+    clientSecret:53981c15b9c26f4c23f2d74d311d59a5ae2bc947
     admin: 
 # utterances 配置参考：https://utteranc.es/
 # utterances:
